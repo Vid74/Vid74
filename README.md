@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! I build projects in **Digital Design, RTL Design
 
 My goal is to develop industry-level VLSI projects that demonstrate practical engineering skills for ASIC and FPGA roles.
 
-## 👧 About Me
+##  About Me
 
 I am an Electronics & Communication Engineering undergraduate with a strong interest in VLSI Design and Digital IC Design.
 
