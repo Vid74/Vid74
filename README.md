@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sri Vid 👋
 
-<!--
-**Vid74/Vid74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Undergraduate
 
-Here are some ideas to get you started:
+### Aspiring VLSI Design Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RTL Design • FPGA • CMOS • Verilog • Cadence Virtuoso • PCB • LTSpice  
+
+---
+
+Welcome to my GitHub portfolio! I build projects in **Digital Design, RTL Design, FPGA, CMOS Circuit Design, Analog Design, and PCB Design**.
+
+My goal is to develop industry-level VLSI projects that demonstrate practical engineering skills for ASIC and FPGA roles.
