@@ -2,7 +2,6 @@
 
 ### Electronics & Communication Engineering Undergraduate
 
-### Aspiring VLSI Design Engineer
 
 RTL Design • FPGA • CMOS • Verilog • Cadence Virtuoso • PCB • LTSpice  
 
@@ -11,3 +10,21 @@ RTL Design • FPGA • CMOS • Verilog • Cadence Virtuoso • PCB • LTSpic
 Welcome to my GitHub portfolio! I build projects in **Digital Design, RTL Design, FPGA, CMOS Circuit Design, Analog Design, and PCB Design**.
 
 My goal is to develop industry-level VLSI projects that demonstrate practical engineering skills for ASIC and FPGA roles.
+
+## 👧 About Me
+
+I am an Electronics & Communication Engineering undergraduate with a strong interest in VLSI Design and Digital IC Design.
+
+I enjoy designing hardware from the transistor level to RTL implementation and FPGA prototyping.
+
+My interests include:
+
+- RTL Design (Verilog HDL)
+- Digital Logic Design
+- CMOS Circuit Design
+- Analog & Mixed Signal Design
+- FPGA Design
+- PCB Design
+- Computer Architecture
+- Static Timing Analysis (Learning)
+- Physical Design (Learning)
