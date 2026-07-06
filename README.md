@@ -1,4 +1,4 @@
-# Hi, I'm Sri Vid 👋
+# Hi, I'm Vid74 👋
 
 ### Electronics & Communication Engineering Undergraduate
 
