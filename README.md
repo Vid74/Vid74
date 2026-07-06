@@ -95,3 +95,12 @@ My interests include:
 ![ESC](https://img.shields.io/badge/Electronic%20Speed%20Controller-4B5563?style=for-the-badge)
 ![BLDC Motor](https://img.shields.io/badge/BLDC%20Motor-0F766E?style=for-the-badge)
 
+---
+---
+
+# 📫 Connect With Me
+
+
+[![Email](https://img.shields.io/badge/Email-bssrividya05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bssrividya05@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vid74-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vid74)
