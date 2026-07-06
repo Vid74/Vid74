@@ -28,3 +28,13 @@ My interests include:
 - Computer Architecture
 - Static Timing Analysis (Learning)
 - Physical Design (Learning)
+
+## 📚 Currently Learning
+
+- Static Timing Analysis (STA)
+- SystemVerilog
+- Physical Design Flow
+- ASIC Design Flow
+- Computer Architecture
+- TCL Scripting
+- Low Power VLSI Design
